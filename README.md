@@ -6,7 +6,9 @@
 <h3>Prints: </h3>
 <hr>
 
-
+![https://github.com/BodeDimitri/workshop-springboot-jpa/blob/master/print/DM.JPG](https://github.com/BodeDimitri/workshop-javafx-jdbc/blob/master/prints/print1.JPG))
+![print2](https://github.com/BodeDimitri/workshop-javafx-jdbc/blob/master/prints/print2.JPG)
+![print3](https://github.com/BodeDimitri/workshop-javafx-jdbc/blob/master/prints/print3.JPG))
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
